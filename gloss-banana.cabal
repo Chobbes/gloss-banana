@@ -64,7 +64,7 @@ library
   -- Other library packages from which modules are imported.
   build-depends:       base >=4.6 && <5,
                        gloss >=1.8 && <1.11,
-                       reactive-banana >=0.8 && <1.1
+                       reactive-banana >=0.8 && <1.2
   
   -- Directories containing source files.
   -- hs-source-dirs:      
